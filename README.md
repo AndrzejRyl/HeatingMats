@@ -1,2 +1,1 @@
-System for heating mats. It consists of one RaspberryPi connected to at most 5 mats (each connection has two thermometers - one for mat and one for room - and one connection turning the mat on or off).
-RasPi also hosts a server from which the user can control all the mats
+This branch consists entire logic to automatically pair Android device with RaspberryPi via bluetooth connection.
